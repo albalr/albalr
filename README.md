@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Alba López Ruiz
 
-<!--
-**albalr/albalr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Computer Science student** at **Universitat Politècnica de Catalunya (UPC) – FIB**,  
+specializing in **Software Development** 
 
-Here are some ideas to get you started:
+🌍 Currently studying abroad, finishing my bachelor's degree at **DTU – Technical University of Denmark**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Always exploring new tech, building projects, and learning something new every day.
+
+### 🧠 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=albalr&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="Alba's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albalr&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+### 📚 University Projects (UPC - FIB)
+
+
